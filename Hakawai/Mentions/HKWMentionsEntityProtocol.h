@@ -24,6 +24,7 @@
 - (NSString *)imgUrl;
 - (UIImage *)img;
 - (NSDictionary *)entityMetadata;
+- (NSString *)initials;
 
 @optional
 
