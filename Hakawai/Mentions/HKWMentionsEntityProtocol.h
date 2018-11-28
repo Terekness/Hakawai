@@ -22,6 +22,7 @@
 - (NSString *)entityId;
 - (NSString *)entityName;
 - (NSString *)imgUrl;
+- (UIImage *)img;
 - (NSDictionary *)entityMetadata;
 
 @optional
